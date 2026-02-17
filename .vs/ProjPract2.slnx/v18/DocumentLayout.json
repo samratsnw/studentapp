@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ProjPract2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\dtos\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:dtos\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|c:\\users\\user\\source\\repos\\projpract2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68A7AF3E-26D9-451E-985A-D4919C2D2B6A}|ProjPract2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Interface\\IService.cs",
+              "RelativeToolTip": "Interface\\IService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:43:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Controller\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controller\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Controller\\StudentController.cs",
+              "RelativeToolTip": "Controller\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:43:23.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Services\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Services\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Services\\StudentRepository.cs",
+              "RelativeToolTip": "Services\\StudentRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:44:27.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Services\\StudentServices.cs",
+              "RelativeToolTip": "Services\\StudentServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:44:45.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Interface\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:44:14.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:09:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Data\\DapperContext.cs",
+              "RelativeToolTip": "Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:55:19.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\UpdateStudentDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:58:22.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:56:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\ReadStudentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ReadStudentDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\ReadStudentDto.cs",
+              "RelativeToolTip": "DTOs\\ReadStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:58:09.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\CreateStudentDto.cs",
+              "RelativeToolTip": "DTOs\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:57:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:43:39.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjPract2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjPract2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T05:54:02.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
